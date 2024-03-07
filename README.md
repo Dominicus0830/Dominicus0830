@@ -60,6 +60,6 @@ Here are some ideas to get you started:
 <br/>
 
 ### :closed_book: Github Stats
-![zmrdltl's github stats](https://github-readme-stats.vercel.app/api?username=Dominicus0830&show_icons=true&theme=radical&count_private=true)
+![Dominicus0830's github stats](https://github-readme-stats.vercel.app/api?username=Dominicus0830&show_icons=true&theme=radical&count_private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dominicus0830&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
