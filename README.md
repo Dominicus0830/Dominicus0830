@@ -61,8 +61,6 @@ Here are some ideas to get you started:
 
 <br/>
 
-### :closed_book: Solved.ac Profile
-![Solved.ac프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=xhdxhl)
 ### :closed_book: Github Stats
 ![zmrdltl's github stats](https://github-readme-stats.vercel.app/api?username=Dominicus0830&show_icons=true&theme=radical&count_private=true)
 
