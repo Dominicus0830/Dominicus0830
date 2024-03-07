@@ -15,8 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<h1 align="center"> 👋 Meen Seek Kim </h1>
-<h3 align="center"> Graduated Hongik Univ. Computer Engineering major</h3>
+<h1 align="center"> 👋 Dominicus </h1>
 
 🌱 Currently learning **java, spring, umm**
 <br/>
